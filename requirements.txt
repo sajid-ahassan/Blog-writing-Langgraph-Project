@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
+langchain-text-splitters
+langchain-tavily
+streamlit
