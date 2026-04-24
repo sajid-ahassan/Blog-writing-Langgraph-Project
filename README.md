@@ -1,4 +1,4 @@
-# Blog Writing LangGraph Project
+# AI Blog Studio (LangGraph Multi-Agent System)
 
 AI-powered blog generation workflow built with **LangGraph**, **LangChain**, **OpenAI**, **Tavily**, and **Streamlit**.
 
@@ -33,7 +33,6 @@ The repository also includes a Streamlit UI (`frontend2.py`) for entering a topi
 .
 ├── app.py           # Core LangGraph workflow and nodes
 ├── frontend.py      # Older/incomplete Streamlit frontend draft
-├── frontend2.py     # Main Streamlit app
 ├── blog.ipynb       # Notebook version used for development/prototyping
 ├── requirements.txt # Python dependencies
 └── README.md
