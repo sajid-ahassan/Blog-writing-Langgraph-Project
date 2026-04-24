@@ -217,14 +217,6 @@ After the article is merged, the reducer decides whether an image would actually
 - AI-assisted content ideation
 - research-backed markdown article generation
 
-## Who This Project Is For
-
-This project is a strong starting point for:
-
-- developers learning LangGraph
-- builders creating AI writing agents
-- content teams prototyping article generation workflows
-- anyone experimenting with multi-step agent pipelines
 
 ## Future Roadmap
 
@@ -237,13 +229,8 @@ Potential next steps for the project:
 - publishing to CMS platforms
 - evaluation pipeline for blog quality
 
-## License
-
-Add a license file if you plan to make the project reusable by others.
 
 ## Author
 
-Created by **Sajid Hassan**.
+Created by **Sajid Ahasan**.
 
-
-What I found from the code:
